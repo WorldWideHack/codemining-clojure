@@ -46,11 +46,12 @@ A "programmer" searches for a useful entry point, which may be found in his own 
 another project. He initiates the search in the code context in which he expects to use the entry
 point. He provides a "query", which is search text in Google style.
 
-Query results are entry points, ranked by the following factors, from highest priority down:
+Query results are entry points, ranked by the following factors, shown roughly from highest priority down:
 
 * Query match to entry point documentation.
 
-* Query match to combined descriptive context across all references.
+* Query match to combined descriptive context across all references to the entry point.
 
-* Query code context match to combined code context across all references.
+* Query code context match to combined code context across all references to the entry point.
 
+* Authority of the project that provides the entry point.
