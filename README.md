@@ -15,6 +15,9 @@ Here are some motivations behind using Clojure as the first target for code mini
 
 * Clojure's REPL is an easy first target for code-mining capabilities.
 
+* Clojure's dynamic, interactive nature and its homoiconicity make it a natural, easy
+  environment for experimenting with learnable programming techniques.
+
 ## License
 
 Copyright © 2014 Dean Thompson
