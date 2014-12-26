@@ -1,36 +1,13 @@
 # codemining-clojure
 
-FIXME: description
+Experimental implementation of "code mining", as defined in the
+[World Wide Hack Manifesto](https://github.com/WorldWideHack/manifesto).
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar codemining-clojure-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+For an overview of use cases and architecture, see [doc/intro.md](doc/intro.md).
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Dean Thompson
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
