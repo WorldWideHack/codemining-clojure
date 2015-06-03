@@ -41,7 +41,7 @@ Here are some motivations for making Clojure the second target for code mining:
 
 * Clojure is strong at analyzing Clojure code. Partly this is because it is homoiconic, 
   but largely it is the existence of [tools.analyzer](https://github.com/clojure/tools.analyzer)
-  and work on [Typed Clojure](http://typedclojure.org).
+  and Ambrose Bonnaire-Sergeant's work on [Typed Clojure](http://typedclojure.org).
 
 * Clojure is well architected for composability: it has a bias toward immutability and pure
   functions, a pragmatic approach to state, and good tools for abstraction.
