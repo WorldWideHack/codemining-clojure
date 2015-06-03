@@ -1,8 +1,17 @@
 # Introduction to codemining-clojure
 
-## First Use Case: Clojure REPL
+## Use Case: Rust Hub
 
-As an initial proving ground, we will enable a programmer in a Clojure REPL to search for a suitable
+As a simple initial use case, we will create rusthub.co with simple support for package/author rankings.
+This doesn't involve any code analysis -- just search and authority analysis at the package/dependency level.
+
+## Use Case: Clojure Hub
+
+Similar to Rust Hub, on clojurehub.co.
+
+## Use Case: Clojure REPL
+
+As an early proving ground, we will enable a programmer in a Clojure REPL to search for a suitable
 function for a particular purpose. 
 
 For example, suppose the programmer is in a REPL in a namespace that isn't using anything related to
