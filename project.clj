@@ -8,7 +8,8 @@
                            [org.clojure/data.json "0.2.6"]
                            [clj-http "1.1.2"]
                            [com.taoensso/timbre "4.0.0-beta4"]
-                           [dire "0.5.3"]]
+                           [clj-time "0.9.0"]
+                           [org.clojure/algo.monads "0.1.5"]]
             :target-path "target/%s"
             :profiles {:uberjar {:aot :all}
                        :dev     {:dependencies [[midje "1.6.3"]]}})
