@@ -3,7 +3,7 @@
 Experimental implementation of "code mining", as defined in the
 [World Wide Hack Manifesto](https://github.com/WorldWideHack/manifesto).
 
-For an overview of use cases and architecture, see [doc/intro.md](doc/intro.md).
+Right now, this is almost entirely ideas rather than code. For ideas about the implementation approach, see [doc/implementation_ideas.md](doc/implementation_ideas.md).
 
 ## Haskell as primary implementation language
 
