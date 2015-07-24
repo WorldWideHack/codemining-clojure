@@ -1,4 +1,4 @@
-# Introduction to codemining-clojure
+# Code Mining Implementation Ideas
 
 ## Use Case: Rust Hub
 
